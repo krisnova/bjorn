@@ -37,6 +37,8 @@ Hi my name is Björn!
 
 # Phrases
 
+| English                    | Íslensku                         |
+|----------------------------|----------------------------------|
 | Gofod boy Björn!           | Góður Strákur Björn              | 
 | Good girl Björn            | Góð Stelpa Björn                 |
 | I love you!                | Ég elska þig (yay elska thay)    |
